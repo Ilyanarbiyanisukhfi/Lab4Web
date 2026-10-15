@@ -147,6 +147,8 @@ Footer diberi style background gelap dengan teks putih agar terlihat berbeda dar
 
 <img width="535" height="165" alt="Screenshot 2026-10-15 214613" src="https://github.com/user-attachments/assets/2add179c-5076-40eb-97a9-1e4523803683" />
 
+<img width="1240" height="73" alt="Screenshot 2026-10-15 214805" src="https://github.com/user-attachments/assets/756b4190-391d-4e63-b38e-9914fa7d90d7" />
+
 ---
 
 ### 8. Menambahkan Elemen Lain pada Main Content
@@ -157,10 +159,13 @@ Menambahkan `div.row` yang berisi tiga `div.box`. Masing-masing box memiliki gam
 - `.image-circle` dengan `border-radius: 50%` agar gambar berbentuk lingkaran.
 - `.row` dengan margin negatif dan clearfix (`:before` dan `:after` dengan `display: table` dan `clear: both`).
 
-<img width="688" height="305" alt="image" src="https://github.com/user-attachments/assets/06daaee8-e563-45fe-b162-a18299323335" />
+<img width="1087" height="477" alt="Screenshot 2026-10-15 214928" src="https://github.com/user-attachments/assets/a569ee42-a909-4b37-9b04-543d66255c1a" />
 
-<img width="358" height="445" alt="image" src="https://github.com/user-attachments/assets/21f2dc3e-94ea-495a-b4cd-719a5525250a" />
-<img width="304" height="304" alt="image" src="https://github.com/user-attachments/assets/b268de0a-2587-454e-bd9c-6db9c3793c9f" />
+<img width="657" height="641" alt="Screenshot 2026-10-15 214950" src="https://github.com/user-attachments/assets/2bf2390e-6a14-4b28-a234-d8f7ac3af5f4" />
+
+<img width="711" height="506" alt="Screenshot 2026-10-15 215002" src="https://github.com/user-attachments/assets/854360ff-f74b-4da4-8587-aa82a88f95fd" />
+
+
 <img width="322" height="272" alt="image" src="https://github.com/user-attachments/assets/26d56f2f-edb4-4cf1-b944-71b15aea41a8" />
 
 
@@ -175,11 +180,9 @@ CSS `.entry`:
 - `.entry img` menggunakan `float: left`, `border-radius: 5px`, dan `margin-right: 15px`.
 - `.entry .right-img` menggunakan `float: right` dengan margin kiri `15px`.
 
-<img width="578" height="248" alt="image" src="https://github.com/user-attachments/assets/19ff8570-955d-47e1-aa65-10052dccbc5c" />
+<img width="1116" height="425" alt="Screenshot 2026-10-15 215540" src="https://github.com/user-attachments/assets/06ed77f1-b677-4601-8e69-1db50f8a4e43" />
 
-
-<img width="244" height="376" alt="image" src="https://github.com/user-attachments/assets/25ac8edb-f782-4d35-8a59-0a75fc69fb66" />
-
+<img width="765" height="691" alt="Screenshot 2026-10-15 215554" src="https://github.com/user-attachments/assets/1898e1b4-5cd7-4636-81c1-c2f13d3aa52b" />
 
 <img width="469" height="316" alt="image" src="https://github.com/user-attachments/assets/cce429ae-882d-4f25-9c75-d7394e306fa7" />
 
