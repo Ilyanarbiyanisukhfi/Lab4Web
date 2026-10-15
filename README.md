@@ -187,3 +187,14 @@ CSS `.entry`:
 <img width="469" height="316" alt="image" src="https://github.com/user-attachments/assets/cce429ae-882d-4f25-9c75-d7394e306fa7" />
 
 ada pun hasil screenshot dari tugas untuk menampilkan about dan contact
+
+TUGAS NOMOR 1
+
+<img width="1897" height="906" alt="Screenshot 2026-10-15 210447" src="https://github.com/user-attachments/assets/cd7a21dd-7352-485b-a256-ac1bd44e1f7b" />
+
+<img width="1896" height="916" alt="Screenshot 2026-10-15 210339" src="https://github.com/user-attachments/assets/c6ee75fa-42d8-4930-9ae9-81213c2845e3" />
+
+## Kesimpulan
+
+Pada praktikum ini telah dipelajari cara membuat layout website dengan CSS menggunakan properti `float` dan `clear`, penggunaan semantic element HTML5, serta pembuatan komponen seperti navigasi, hero panel, sidebar widget, box, dan artikel. Selain itu juga dibuat halaman About dan Kontak dengan layout yang konsisten.
+
