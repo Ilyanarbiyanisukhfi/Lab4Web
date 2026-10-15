@@ -85,8 +85,7 @@ CSS ditambahkan untuk membuat tampilan dasar layout, meliputi:
 - `#container` dengan lebar `980px`, rata tengah (`margin: 0 auto`), dan `box-shadow`.
 - Pengaturan `header` dan `header h1`.
 
-<img width="975" height="441" alt="image" src="https://github.com/user-attachments/assets/037b3cbe-949b-4b93-b855-9f124619cca8" />
-
+<img width="1515" height="835" alt="Screenshot 2026-10-15 213436" src="https://github.com/user-attachments/assets/ccf05dd0-6841-48ed-bbcf-562e1e1dcf89" />
 
 Hasil di browser:
 
@@ -103,8 +102,7 @@ CSS navigasi dibuat dengan ketentuan:
 - Link `nav a` ditampilkan `inline-block`, berwarna putih, tebal, tanpa garis bawah.
 - `nav a.active` dan `nav a:hover` memiliki background `#2b83ea`.
 
-<img width="314" height="342" alt="image" src="https://github.com/user-attachments/assets/56dded7f-4657-4a86-bdb0-850178644431" />
-
+<img width="510" height="477" alt="Screenshot 2026-10-15 213924" src="https://github.com/user-attachments/assets/88fe57fb-b4f5-4e70-8b2a-f739a34acf39" />
 
 <img width="752" height="240" alt="image" src="https://github.com/user-attachments/assets/fc16e22a-90f6-4866-b155-4190e529a3b0" />
 
