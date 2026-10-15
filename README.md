@@ -113,10 +113,9 @@ CSS navigasi dibuat dengan ketentuan:
 
 Menambahkan kode HTML pada `<section id="hero">` berisi judul, paragraf, dan tombol "Learn more", lalu diberi style: background abu-abu (`#e4e4e5`), padding, serta pengaturan ukuran font `h1` dan `p`.
 
-<img width="975" height="179" alt="image" src="https://github.com/user-attachments/assets/49dffe1e-dc0e-427b-9c0c-e17684d2d58e" />
+<img width="1002" height="172" alt="Screenshot 2026-10-15 214046" src="https://github.com/user-attachments/assets/9f25352e-6692-465a-b06c-fe2abaed32da" />
 
-<img width="253" height="251" alt="image" src="https://github.com/user-attachments/assets/8e0451d6-95e1-4785-9110-a50360e1f9fc" />
-
+<img width="732" height="416" alt="Screenshot 2026-10-15 214105" src="https://github.com/user-attachments/assets/0f77aa07-87d2-4a8c-94e0-fdec7e81bc0f" />
 
 <img width="440" height="254" alt="image" src="https://github.com/user-attachments/assets/584c4f57-aa78-450f-897b-c47056ad9927" />
 
@@ -129,13 +128,11 @@ Menambahkan kode HTML pada `<section id="hero">` berisi judul, paragraf, dan tom
 - Lebar `#main` = `640px`, lebar `#sidebar` = `260px`, keduanya dengan `padding: 20px`.
 - Sidebar berisi dua `widget-box` (daftar link dan teks) yang diberi style border, title berwarna biru (`#428bca`), list tanpa bullet, dan efek hover.
 
-<img width="202" height="294" alt="image" src="https://github.com/user-attachments/assets/3fda7fd2-57e1-420b-b54b-f825e85a3603" />
+<img width="472" height="415" alt="Screenshot 2026-10-15 214325" src="https://github.com/user-attachments/assets/5c383462-7168-4183-a72d-08509962a501" />
 
+<img width="1005" height="452" alt="Screenshot 2026-10-15 214351" src="https://github.com/user-attachments/assets/10e99933-6180-4baf-996c-d5aef530d667" />
 
-<img width="636" height="262" alt="image" src="https://github.com/user-attachments/assets/81c697d1-0f1e-41e6-a39e-723f717498c8" />
-
-
-<img width="241" height="405" alt="image" src="https://github.com/user-attachments/assets/f6377fc5-7803-45a0-887e-78ae56c6da0b" />
+<img width="595" height="852" alt="Screenshot 2026-10-15 214419" src="https://github.com/user-attachments/assets/bc00003b-d7d7-45f6-84a1-43549338106d" />
 
 <img width="361" height="413" alt="image" src="https://github.com/user-attachments/assets/86ef685a-47ed-43b1-b265-9b225c4bf1d4" />
 
@@ -146,8 +143,9 @@ Menambahkan kode HTML pada `<section id="hero">` berisi judul, paragraf, dan tom
 
 Footer diberi style background gelap dengan teks putih agar terlihat berbeda dari konten utama.
 
-<img width="609" height="73" alt="image" src="https://github.com/user-attachments/assets/b37f8ab1-e2fa-404e-872e-1833820bd3db" />
+<img width="671" height="73" alt="Screenshot 2026-10-15 214628" src="https://github.com/user-attachments/assets/5f39b232-f4aa-4aa5-9802-eb1084c03556" />
 
+<img width="535" height="165" alt="Screenshot 2026-10-15 214613" src="https://github.com/user-attachments/assets/2add179c-5076-40eb-97a9-1e4523803683" />
 
 ---
 
