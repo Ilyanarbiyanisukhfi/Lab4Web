@@ -192,6 +192,8 @@ TUGAS NOMOR 1
 
 <img width="1897" height="906" alt="Screenshot 2026-10-15 210447" src="https://github.com/user-attachments/assets/cd7a21dd-7352-485b-a256-ac1bd44e1f7b" />
 
+TUGAS NOMOR 2
+
 <img width="1896" height="916" alt="Screenshot 2026-10-15 210339" src="https://github.com/user-attachments/assets/c6ee75fa-42d8-4930-9ae9-81213c2845e3" />
 
 ## Kesimpulan
