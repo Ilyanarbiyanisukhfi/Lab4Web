@@ -31,13 +31,13 @@ modul-praktikum-4
 
 Langkah pertama adalah menyiapkan dokumen HTML dasar dengan nama `Lab4_box.html` yang berisi `<header>` dengan judul "Box Element".
 
-<img width="906" height="370" alt="image" src="https://github.com/user-attachments/assets/dd6fb76c-150c-47cc-b29f-209c79f9f81e" />
+<img width="940" height="362" alt="Screenshot 2026-10-15 212402" src="https://github.com/user-attachments/assets/d42f44f7-d3d5-43db-a4df-210fe74114db" />
+
 
 
 Kemudian di dalam `<body>` ditambahkan `<section>` yang berisi empat buah `<div>` dengan class `div1` sampai `div4`.
 
-<img width="423" height="151" alt="image" src="https://github.com/user-attachments/assets/30f6c439-2238-4054-b00f-be4f4164d944" />
-
+<img width="638" height="147" alt="Screenshot 2026-10-15 212416" src="https://github.com/user-attachments/assets/0b50b07e-9aec-46d8-948a-1aea0aa0d4e4" />
 
 #### CSS Float Property
 
