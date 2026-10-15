@@ -47,8 +47,7 @@ Pada bagian `<head>` ditambahkan CSS internal untuk membuat float element:
 - `.div1` berwarna merah, `.div2` kuning, `.div3` hijau.
 - `.div4` berwarna biru dengan `clear: left` dan `float: none` (clearfix) agar tampil di baris baru.
 
-<img width="306" height="352" alt="image" src="https://github.com/user-attachments/assets/806fdb07-e6a1-474f-b36e-dbcfba87168d" />
-
+<img width="580" height="477" alt="Screenshot 2026-10-15 212427" src="https://github.com/user-attachments/assets/f6ed04d5-91be-4754-86a9-757feb0ecfd9" />
 
 Hasil di browser: Div1, Div2, dan Div3 tampil sejajar ke samping, sedangkan Div4 berada di bawahnya dengan lebar penuh.
 
