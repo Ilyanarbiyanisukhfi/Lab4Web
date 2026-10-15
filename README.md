@@ -190,3 +190,5 @@ CSS `.entry`:
 
 
 <img width="469" height="316" alt="image" src="https://github.com/user-attachments/assets/cce429ae-882d-4f25-9c75-d7394e306fa7" />
+
+ada pun hasil screenshot dari tugas untuk menampilkan about dan contact
