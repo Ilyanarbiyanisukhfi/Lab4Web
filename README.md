@@ -5,8 +5,8 @@ Repository ini dibuat untuk menyelesaikan tugas Praktikum 4 Pemrograman Web.
 
 | Keterangan      | Data                 |
 | --------------- | -------------------- |
-| **Nama**        | Rafli Putra Sudrajat |
-| **Kelas**       | I251B                |
-| **NIM**         | 312510326            |
+| **Nama**        | Ilyan Arbiyani Sukhfi |
+| **Kelas**       | I251D                |
+| **NIM**         | 312510436            |
 | **Mata Kuliah** | Pemrograman Web      |
 | **Dosen**       | Agung Nugroho, S.Kom., M.Kom. |
