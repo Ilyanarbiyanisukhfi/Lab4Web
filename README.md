@@ -60,16 +60,13 @@ Hasil di browser: Div1, Div2, dan Div3 tampil sejajar ke samping, sedangkan Div4
 
 Membuat kerangka layout menggunakan semantic element. Dokumen ini menghubungkan file `style.css` dan memiliki `<div id="container">` sebagai pembungkus utama.
 
-<img width="736" height="188" alt="image" src="https://github.com/user-attachments/assets/1a4aa22d-9185-41d6-903d-7dac1e0a90ac" />
-
+<img width="835" height="166" alt="Screenshot 2026-10-15 213033" src="https://github.com/user-attachments/assets/6cb6e599-b317-426b-b541-de024c65926d" />
 
 Di dalam container ditambahkan elemen `<header>`, `<nav>` (Home, Artikel, About, Kontak), `<section id="hero">`, `<section id="wrapper">` (berisi `<section id="main">` dan `<aside id="sidebar">`), serta `<footer>`.
 
-<img width="352" height="178" alt="image" src="https://github.com/user-attachments/assets/4bbf886c-7e86-45d3-8a45-87f9c89378f5" />
+<img width="381" height="178" alt="Screenshot 2026-10-15 213108" src="https://github.com/user-attachments/assets/fb025e9a-122b-45a6-a8b6-4812f7d5ac91" />
 
-<img width="499" height="332" alt="image" src="https://github.com/user-attachments/assets/db698d27-dc9f-47be-8105-1871dd4b0b60" />
-
-
+<img width="776" height="498" alt="Screenshot 2026-10-15 213306" src="https://github.com/user-attachments/assets/0d9b5c72-8672-4aaa-a700-9f0ab1aeceae" />
 
 Hasil sebelum diberi CSS:
 
